@@ -20,7 +20,7 @@ decided to build his own AI instead of renting one forever.
 Not a tech explainer. What it means in plain English: your data stays on your machine,
 no monthly bill, works when the internet goes down. Why that matters if you run a real business.
 
-**Ch 3 — The November 16 Breakthrough**
+**Ch 3 — [The November 16 Breakthrough](./ch03-breakthrough.md)** ✓ *draft complete*
 The full story of the day it clicked. Ubuntu USB + Ollama + Llama3.2 in two hours.
 What I'd been doing wrong. What simple actually looks like.
 
