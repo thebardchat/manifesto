@@ -1,27 +1,41 @@
 # The ShaneBrain Manifesto
 
-A dump truck dispatcher from Hazel Green, Alabama built a local AI ecosystem on a Raspberry Pi 5 while managing 19 drivers, raising 5 sons, and caring for his wife. This document is the vision, the mission, and the guiding principles behind every line of code.
+A dump truck dispatcher from Hazel Green, Alabama built a local AI ecosystem on a Raspberry Pi 5 while managing 19 drivers, raising 5 sons, and caring for his wife.
 
-This is not a corporate strategy deck. It is a builder's testament — written over months of voice dumps, late dispatch shifts, and quiet sessions after the family was asleep.
+**There's a book being written here.**
+
+*The Pragmatic Systems Builder: One Dispatcher's Guide to Owning Your Own AI* — written for the 800 million people losing Windows 10 security support who think AI is only for tech companies. It isn't.
+
+Follow along as the chapters ship: [`book/`](./book/)
 
 ---
 
-## Read the Manifesto
+## Start Here
 
-[MANIFESTO.md](./MANIFESTO.md) — 374 lines covering:
-- Shane's profile, communication style, and personal context
-- Every active project and its status
-- The full ShaneBrain → Angel Cloud → Pulsar AI → TheirNameBrain ecosystem vision
-- Technical stack decisions and why they were made
-- The guiding philosophy: local-first, privacy-first, serve the left-behind user
+**[STORY.md](./STORY.md)** — Read this first. Two minutes. It's the why.
+
+**[book/outline.md](./book/outline.md)** — Where the book is going.
+
+**[book/ch01-why.md](./book/ch01-why.md)** — Chapter 1: *Dispatching 19 Trucks and Losing Faith in the Cloud*
+
+---
+
+## The Governing Documents
+
+[MANIFESTO.md](./MANIFESTO.md) — The full operational vision: projects, technical stack, ecosystem map, philosophy.
+
+[CONSTITUTION.md](./CONSTITUTION.md) — The nine pillars. Faith, family, sobriety, local-first. The rules that don't bend.
 
 ---
 
 ## Who This Is For
 
-- Builders who believe local AI is worth fighting for
-- Anyone who thinks one person with a Pi and a mission can change something
-- People Big Tech forgot to design for
+- You don't have a CS degree and you never will
+- You run a small business, a crew, a household — real things, not demos
+- You don't trust the cloud with your data and you're right not to
+- You thought AI was something other people got to have
+
+It isn't. This is the proof.
 
 ---
 

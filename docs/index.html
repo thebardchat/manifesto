@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The ShaneBrain Manifesto</title>
+<title>The ShaneBrain Manifesto — & a Book in Progress</title>
 <style>
   :root { --bg: #0d0d0d; --surface: #141414; --card: #1a1a1a; --green: #00ff88; --green-dim: #00cc66; --text: #e8e8e8; --muted: #888; --border: #2a2a2a; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -34,6 +34,12 @@
   .nav-card:hover { border-color: var(--green); color: var(--green); }
   footer { text-align: center; padding: 2rem; border-top: 1px solid var(--border); color: var(--muted); font-family: 'Courier New', monospace; font-size: 0.8rem; margin-top: 2rem; }
   footer a { color: var(--green-dim); text-decoration: none; }
+  .book-banner { background: var(--card); border: 1px solid var(--green); border-radius: 4px; padding: 1.75rem 2rem; margin-bottom: 2.5rem; }
+  .book-banner h2 { color: var(--green); font-size: 1rem; font-family: 'Courier New', monospace; letter-spacing: 0.08em; margin-bottom: 0.5rem; }
+  .book-banner .book-title { color: var(--text); font-size: 1.15rem; font-style: italic; margin-bottom: 0.75rem; line-height: 1.5; }
+  .book-banner p { color: var(--muted); font-size: 0.88rem; line-height: 1.7; margin-bottom: 0.75rem; }
+  .book-banner a.book-link { display: inline-block; color: var(--green); font-family: 'Courier New', monospace; font-size: 0.82rem; border: 1px solid var(--green); padding: 0.4rem 0.9rem; border-radius: 3px; text-decoration: none; margin-top: 0.25rem; }
+  .book-banner a.book-link:hover { background: var(--green); color: var(--bg); }
 </style>
 </head>
 <body>
@@ -45,6 +51,15 @@
 </header>
 
 <div class="container">
+
+  <div class="book-banner">
+    <h2>// A Book Is Being Written Here</h2>
+    <p class="book-title">The Pragmatic Systems Builder: One Dispatcher's Guide to Owning Your Own AI</p>
+    <p>Written for the 800 million people losing Windows 10 security support who think AI is only for tech companies. Written by a dump truck dispatcher with no CS degree who built a working local AI on a $100 computer, filed a patent, and dispatched real trucks with it. Written in public, one chapter at a time, no gatekeepers.</p>
+    <a class="book-link" href="https://github.com/thebardchat/manifesto/blob/main/book/outline.md">Read the outline →</a>
+    &nbsp;
+    <a class="book-link" href="https://github.com/thebardchat/manifesto/blob/main/book/ch01-why.md">Chapter 1 →</a>
+  </div>
 
   <div class="manifesto-section">
     <p class="section-title">Who Shane Is</p>
