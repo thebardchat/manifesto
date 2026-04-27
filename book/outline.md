@@ -10,9 +10,19 @@ People who want to build technology that doesn't exploit them.
 
 **Format:** Self-published. Written in public. No gatekeepers.
 
-**Relationship to Book 1:** Book 1 (*You Probably Think This Book Is About You*) is the
-personal story — the people, the life. This book is the builder's story — the philosophy,
-the mission, the how-to. They're companions, not duplicates.
+**Relationship to Book 1:** The two books are companion pieces.
+
+*You Probably Think This Book Is About You* is the detective looking backward — noir,
+third person, nobody named, processing the wound. "The small string one" is the youngest son.
+The detective is the case.
+
+*The Pragmatic Systems Builder* is the builder looking forward — first person, everything
+named: Shane, Gavin, Pierce, Jaxton, Ryker, November 27, 2023. Doing the work.
+
+The hinge between them is the sobriety date. Book 1 is everything that led there.
+Book 2 is everything built after.
+
+One line for the set: **Book 1 is the case. Book 2 is the work.**
 
 ---
 
