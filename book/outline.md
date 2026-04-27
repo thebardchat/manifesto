@@ -54,7 +54,7 @@ Not a sermon. An engineering decision. What happens when faith is Article I — 
 not background, but a governing constraint that shapes every feature, every partnership,
 every line of code you're willing to write. What you refuse to build. What wins every conflict.
 
-**Ch 5 — What Sobriety Taught Me About Designing Software**
+**Ch 5 — [What Sobriety Taught Me About Designing Software](./ch05-sobriety.md)** ✓ *draft complete*
 Not the memoir version — Book 1 has that. The engineering version. What does a tool look
 like that violates sobriety integrity? What does "never exploit, addict, or manipulate" mean
 as a design requirement? How does November 27, 2023 show up in a pull request?
@@ -99,12 +99,10 @@ What a dispatcher from Alabama can actually do with an idea worth protecting.
 
 The dispatch tools proved the methodology works. This is what the methodology is for.
 
-**Ch 11 — Angel Cloud: When the Dispatcher Builds for People in Crisis**
-What Angel Cloud is. Who it's for. What a session actually looks like for someone who needs it.
-Why 988 exists but isn't enough. How a mental health platform gets built by one person
-on a Pi 5 in Hazel Green, Alabama — and why the person building it has to be someone
-who understands both crisis and recovery.
-*(This chapter needs Shane's words. Placeholder until that conversation happens.)*
+**Ch 11 — [Angel Cloud: When the Dispatcher Builds for People in Crisis](./ch11-angel-cloud.md)** ✓ *draft complete*
+What Angel Cloud is. Who it's for. Why 988 alone isn't enough. How a mental health platform
+gets built by one person in Hazel Green, Alabama — and why it has to be someone who
+understands both crisis and recovery. Faith. Sobriety. Community.
 
 **Ch 12 — The 800 Million**
 Microsoft ends Windows 10 security support. 800 million people need to decide what comes next.
@@ -143,10 +141,7 @@ The only rule: build something that helps someone Big Tech left behind.
 
 ## What's Needed Before Writing
 
-- **Ch 11 (Angel Cloud):** Shane's words on who it's for, what a session looks like, why it
-  has to exist. Can't be written without that conversation.
-- **Ch 5 (Sobriety as design):** Shane's words on what changed after November 27, 2023 —
-  the engineering version, not the memoir version.
+- **Ch 4 (Faith first):** How faith shows up in actual build decisions — specific examples needed.
 - **Ch 4 (Faith first):** How faith shows up in actual build decisions — specific examples.
 - **Boundary with Book 1:** Summary of what Book 1 covers so Ch 5 and Ch 14 don't overlap.
 
