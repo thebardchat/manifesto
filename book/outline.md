@@ -49,10 +49,9 @@ Complexity is debt. Simple is honest.
 The philosophy comes before the how-to. This is what makes PSB different from every
 other "ship fast" methodology — it has a hard ethical floor. Know the floor before you build.
 
-**Ch 4 — Faith First: What It Means to Build Under a Constitution**
-Not a sermon. An engineering decision. What happens when faith is Article I — not inspiration,
-not background, but a governing constraint that shapes every feature, every partnership,
-every line of code you're willing to write. What you refuse to build. What wins every conflict.
+**Ch 4 — [Faith First: What It Means to Build Under a Constitution](./ch04-faith.md)** ✓ *draft complete*
+Not a sermon. An engineering decision. Privacy as stewardship. Legacy as obedience.
+Authority must be earned. "What you build is what you believe."
 
 **Ch 5 — [What Sobriety Taught Me About Designing Software](./ch05-sobriety.md)** ✓ *draft complete*
 Not the memoir version — Book 1 has that. The engineering version. What does a tool look
@@ -141,8 +140,8 @@ The only rule: build something that helps someone Big Tech left behind.
 
 ## What's Needed Before Writing
 
-- **Ch 4 (Faith first):** How faith shows up in actual build decisions — specific examples needed.
-- **Ch 4 (Faith first):** How faith shows up in actual build decisions — specific examples.
+All placeholder chapters now have drafts. Remaining chapters (2, 6, 7, 8, 9, 10, 12, 13, 14, 15)
+can be drafted from existing manifesto and Angel Cloud source material.
 - **Boundary with Book 1:** Summary of what Book 1 covers so Ch 5 and Ch 14 don't overlap.
 
 ---
