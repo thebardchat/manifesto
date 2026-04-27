@@ -5,90 +5,140 @@
 
 **Audience:** Blue-collar workers, small business owners, people without CS degrees.
 The 800 million losing Windows 10 security support. People who manage real things.
+People who need mental health support and can't afford or access it.
+People who want to build technology that doesn't exploit them.
 
 **Format:** Self-published. Written in public. No gatekeepers.
 
+**Relationship to Book 1:** Book 1 (*You Probably Think This Book Is About You*) is the
+personal story — the people, the life. This book is the builder's story — the philosophy,
+the mission, the how-to. They're companions, not duplicates.
+
 ---
 
-## Part 1: Why I Had to Build My Own
+## Part 1: The Problem
+
+Why cloud dependency is a trap, and why one dispatcher decided to get out of it.
 
 **Ch 1 — [Dispatching 19 Trucks and Losing Faith in the Cloud](./ch01-why.md)** ✓ *draft complete*
-The morning routine. The real cost of cloud dependency. Why a dispatcher from Alabama
-decided to build his own AI instead of renting one forever.
+The 4 a.m. alarm. The routing software that went offline. The question that changed everything:
+what if I just ran it myself?
 
 **Ch 2 — What Local AI Actually Means (and Why It Matters to You)**
 Not a tech explainer. What it means in plain English: your data stays on your machine,
 no monthly bill, works when the internet goes down. Why that matters if you run a real business.
 
 **Ch 3 — [The November 16 Breakthrough](./ch03-breakthrough.md)** ✓ *draft complete*
-The full story of the day it clicked. Ubuntu USB + Ollama + Llama3.2 in two hours.
-What I'd been doing wrong. What simple actually looks like.
+The all-day failure. The decision to simplify. Ubuntu USB + Ollama + Llama3.2 in two hours.
+Complexity is debt. Simple is honest.
 
 ---
 
-## Part 2: Building It
+## Part 2: The Foundation
 
-**Ch 4 — The Hardware (What You Actually Need)**
-Raspberry Pi 5 setup. NVMe storage. RAID for reliability. What costs $100 vs. what costs $500.
-Two paths: the Pi path and the USB stick path.
+The philosophy comes before the how-to. This is what makes PSB different from every
+other "ship fast" methodology — it has a hard ethical floor. Know the floor before you build.
 
-**Ch 5 — Installing Ollama and Talking to It for the First Time**
+**Ch 4 — Faith First: What It Means to Build Under a Constitution**
+Not a sermon. An engineering decision. What happens when faith is Article I — not inspiration,
+not background, but a governing constraint that shapes every feature, every partnership,
+every line of code you're willing to write. What you refuse to build. What wins every conflict.
+
+**Ch 5 — What Sobriety Taught Me About Designing Software**
+Not the memoir version — Book 1 has that. The engineering version. What does a tool look
+like that violates sobriety integrity? What does "never exploit, addict, or manipulate" mean
+as a design requirement? How does November 27, 2023 show up in a pull request?
+No other tech book is written from this constraint. This chapter is why.
+
+**Ch 6 — PSB: Done Beats Perfect**
+The Pragmatic Systems Builder methodology. Why 80% shipped beats 100% planned.
+How ADHD and real operational pressure shaped a better architecture than any textbook would.
+Why "complexity is debt" is the only design rule that matters.
+And why the PSB floor — faith, sobriety, family — is what keeps shipping fast from becoming
+shipping recklessly.
+
+---
+
+## Part 3: Building It
+
 Step by step. For someone who has never touched a Linux terminal.
-What to expect. What to do when it doesn't work.
+If you want to start here, start here. Come back to Part 2 when you want to understand why.
 
-**Ch 6 — Making It Do Real Work**
-How I wired my local AI into actual dispatch operations.
-Weather data. Google Calendar. Plant routing. Voice input for when typing is too slow.
-How to think about connecting AI to the tools you already use.
+**Ch 7 — The Hardware ($0 Path and $500 Path)**
+Two complete options. $0: Ollama on whatever computer you already have.
+$500: Raspberry Pi 5 + NVMe RAID + the full local stack.
+What you actually need. What you can skip.
 
-**Ch 7 — The Patent**
+**Ch 8 — Installing Ollama and Talking to It for the First Time**
+The exact commands. What to expect. What "it's working" looks like.
+Written for someone who has never opened a terminal. No assumed knowledge.
+
+**Ch 9 — Making It Do Real Work**
+How to wire local AI into the tools you already use.
+Weather data. Calendars. Scheduling. Routing. Voice input.
+How to think about connecting AI to your actual operations — not a demo, your real work.
+
+**Ch 10 — The Patent**
 What I learned about protecting an idea when you have no money and no lawyer.
 Micro entity status. USPTO provisional application. Blockchain timestamp for IP protection.
-What a dispatcher from Alabama can actually do with an idea.
+What a dispatcher from Alabama can actually do with an idea worth protecting.
 
 ---
 
-## Part 3: The Philosophy
+## Part 4: The Mission
 
-**Ch 8 — PSB: Done Beats Perfect**
-The Pragmatic Systems Builder methodology. Why 80% shipped is worth more than 100% planned.
-How ADHD and real operational constraints shaped a better architecture than any textbook would.
+The dispatch tools proved the methodology works. This is what the methodology is for.
 
-**Ch 9 — Faith, Family, Sobriety — What the AI Has to Respect**
-The nine constitutional pillars. Why the tools I build are not allowed to exploit or manipulate.
-What it means to build technology that reinforces clarity instead of addiction.
-Sober since November 27, 2023.
+**Ch 11 — Angel Cloud: When the Dispatcher Builds for People in Crisis**
+What Angel Cloud is. Who it's for. What a session actually looks like for someone who needs it.
+Why 988 exists but isn't enough. How a mental health platform gets built by one person
+on a Pi 5 in Hazel Green, Alabama — and why the person building it has to be someone
+who understands both crisis and recovery.
+*(This chapter needs Shane's words. Placeholder until that conversation happens.)*
 
-**Ch 10 — Building for Your Kids, Not Just Your Customers**
-TheirNameBrain: the vision of personalized legacy AI for each of my sons.
-What you leave behind when you build in public.
-Why this is a generational project, not just a product.
+**Ch 12 — The 800 Million**
+Microsoft ends Windows 10 security support. 800 million people need to decide what comes next.
+Most of them are not developers. Most of them can't afford a new computer.
+All of them deserve software that works, is private, and doesn't charge them forever.
+This is the primary audience. This chapter is the argument for why they matter.
+
+**Ch 13 — Open by Default**
+The tools that matter most have to be free. Monetization is permitted when it funds the mission —
+never when it gates the people who need it most. What this means in practice.
+What it costs the builder. Why it's non-negotiable.
 
 ---
 
-## Part 4: Your Turn
+## Part 5: Legacy
 
-**Ch 11 — Getting Started with $0 or $500**
-Two complete paths. The $0 path: Ollama on whatever computer you have.
-The $500 path: Pi 5 + NVMe + the full local stack.
-What you can realistically accomplish in a weekend.
+**Ch 14 — Gavin, Pierce, Jaxton, Ryker: TheirNameBrain**
+Not a product concept. A father building personalized AI for each specific son to inherit.
+What you leave behind when you build in public. What the ShaneBrain ecosystem looks like
+when it's complete. The difference between a product and a legacy.
 
-**Ch 12 — What the 800 Million Windows 10 People Need to Know**
-Microsoft ends Windows 10 security support in October 2025.
-What that actually means. What your options are.
-Why local AI on Linux is a real answer, not a nerd answer.
-
-**Ch 13 — TheirNameBrain: What You Leave Behind**
-The long game. Building an AI that knows your family, your values, your history.
-Not for the cloud to own. For your kids to inherit.
-What the ShaneBrain ecosystem looks like when it's complete.
+**Ch 15 — Your Turn**
+What you can build this weekend. What you can build in a year.
+What the PSB floor looks like for someone who isn't Shane.
+The only rule: build something that helps someone Big Tech left behind.
 
 ---
 
 ## Status Key
 - ✓ Draft complete
 - ~ In progress
+- *(note)* Waiting on source material
 - (blank) Not yet started
+
+---
+
+## What's Needed Before Writing
+
+- **Ch 11 (Angel Cloud):** Shane's words on who it's for, what a session looks like, why it
+  has to exist. Can't be written without that conversation.
+- **Ch 5 (Sobriety as design):** Shane's words on what changed after November 27, 2023 —
+  the engineering version, not the memoir version.
+- **Ch 4 (Faith first):** How faith shows up in actual build decisions — specific examples.
+- **Boundary with Book 1:** Summary of what Book 1 covers so Ch 5 and Ch 14 don't overlap.
 
 ---
 
