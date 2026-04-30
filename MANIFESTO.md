@@ -8,7 +8,7 @@ ollama and llama3.2 will be used and ran from flash drive where memory can be sa
 
 ### **Personal Context**
 
-* **Role**: Dump truck dispatcher/Arcitect of Angel Cloud and all subsidiaries → Pragmatic Systems Builder  
+* **Role**: concrete dispatch operator/Arcitect of Angel Cloud and all subsidiaries → Pragmatic Systems Builder  
 * **Location**: Hazel Green/Huntsville/Madison, Alabama  
 * **Family**: 5 sons (one born 1997, one born 2003, one born 2011, one born 2013, one born 2021), wife (Tiffany), & disabled veteran father  
 * **Challenges**: ADHD, PTSD, financial stress, speech/writing clarity, stutter (push-to-talk helps)
@@ -125,7 +125,7 @@ ollama and llama3.2 will be used and ran from flash drive where memory can be sa
 
 ### **SRM Concrete Operations (formal role)**
 
-* **Current Role**: Dump truck dispatcher  
+* **Current Role**: concrete dispatch operator  
 * **Pain Points**: Missed calls, staff attitude issues, multi-company coordination chaos  
 * **Key Personnel**: Skyler Crews (2nd in command), Binoy Chaudhary (CDO)  
 * **Opportunity**: Position as internal AI systems architect

@@ -10,7 +10,7 @@ By 4:15 I already know it's going to be a hard day. One driver texted at midnigh
 
 That's the job. It never completely stops.
 
-I'm Shane Brazelton. I live in Hazel Green, Alabama, about fifteen minutes from Huntsville. I dispatch dump trucks — stone, dirt, sand, asphalt — for real construction jobs with real deadlines. If a concrete pour starts and my trucks aren't there, the whole site stops. That's money. That's my reputation. That's my drivers' paychecks.
+I'm Shane Brazelton. I live in Hazel Green, Alabama, about fifteen minutes from Huntsville. I run concrete dispatch — stone, dirt, sand, asphalt — for real construction jobs with real deadlines. If a concrete pour starts and my trucks aren't there, the whole site stops. That's money. That's my reputation. That's my drivers' paychecks.
 
 I am telling you this because I want you to understand what "AI" means to me. It doesn't mean a chatbot for writing emails. It doesn't mean a demo someone built for a conference. It means: something that actually helps me run a more reliable operation, costs less than what I was already spending, and works when the internet goes down because sometimes out here, the internet goes down.
 

@@ -1,6 +1,6 @@
 # The Story
 
-I dispatch dump trucks for a living.
+I run concrete dispatch for a living.
 
 Nineteen drivers. Stone quarries. Asphalt plants. Concrete pours. Every morning at 4 a.m. I already know which driver missed his alarm, which plant is backed up, and which job site is going to call me by 6:30 asking where the hell their loads are. I know because I've been doing this long enough that it's in my bones.
 

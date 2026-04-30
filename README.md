@@ -1,6 +1,6 @@
 # The ShaneBrain Manifesto
 
-A dump truck dispatcher from Hazel Green, Alabama built a local AI ecosystem on a Raspberry Pi 5 while managing 19 drivers, raising 5 sons, and caring for his wife.
+A concrete dispatch operator from Hazel Green, Alabama built a local AI ecosystem on a Raspberry Pi 5 while managing 19 drivers, raising 5 sons, and caring for his wife.
 
 **There's a book being written here.**
 
